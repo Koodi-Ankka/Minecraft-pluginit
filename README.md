@@ -1,2 +1,4 @@
 # Minecraft-pluginit
-Koodaamiani plugineita ja muita nopeasti ladattavissa
+Omia koodaamiani plugineita
+
+Älä käytä plugineita ilman minun credittiä, siinä kaikki :D
