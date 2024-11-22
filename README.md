@@ -1,4 +1,3 @@
-# Minecraft-pluginit
-Omia koodaamiani plugineita
+# Minecraft-plugins
 
-Älä käytä plugineita ilman minun credittiä, siinä kaikki :D
+Use at your own risk :)
